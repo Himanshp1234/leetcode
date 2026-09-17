@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
