@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshp1234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Himanshp1234/leetcode/tree/master/1035-uncrossed-lines) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshp1234/leetcode/tree/master/0001-two-sum) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Himanshp1234/leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Himanshp1234/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Longest Common Subsequence
 |  |
