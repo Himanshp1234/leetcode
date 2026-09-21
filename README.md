@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshp1234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Himanshp1234/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Himanshp1234/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshp1234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshp1234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/Himanshp1234/leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Himanshp1234/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Himanshp1234/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshp1234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
