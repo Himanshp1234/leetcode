@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2544-alternating-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/2544-alternating-digit-sum) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Himanshp1234/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
