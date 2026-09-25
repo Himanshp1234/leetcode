@@ -1,27 +1,48 @@
 class Solution {
+
+    long[][] dp;
+
     public int numDistinct(String s, String t) {
-        int n = s.length();
-        int m = t.length();
 
-        long[][] dp = new long[n + 1][m + 1];
+        dp = new long[s.length()][t.length()];
 
-        
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = 1;
+        for (long[] row : dp) {
+            Arrays.fill(row, -1);
         }
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
+        return (int) solve(0, 0, s, t);
+    }
 
-                if (s.charAt(i - 1) == t.charAt(j - 1)) {
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
+    private long solve(int i, int j, String s, String t) {
 
-            }
+        // t complete ho gaya
+        if (j == t.length()) {
+            return 1;
         }
 
-        return (int) dp[n][m];
+        // s complete ho gaya par t nahi
+        if (i == s.length()) {
+            return 0;
+        }
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        long ans = 0;
+
+        if (s.charAt(i) == t.charAt(j)) {
+
+            // take + not take
+            ans = solve(i + 1, j + 1, s, t)
+                + solve(i + 1, j, s, t);
+
+        } else {
+
+            // skip current char of s
+            ans = solve(i + 1, j, s, t);
+        }
+
+        return dp[i][j] = ans;
     }
 }
