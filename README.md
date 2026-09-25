@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Himanshp1234/leetcode/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshp1234/leetcode/tree/master/0001-two-sum) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Bit Manipulation
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/Himanshp1234/leetcode/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Himanshp1234/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -118,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshp1234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Himanshp1234/leetcode/tree/master/0125-valid-palindrome) |
+| [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 ## Manacher
 |  |
 | ------- |
