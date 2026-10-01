@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himanshp1234/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Two Pointers
 |  |
 | ------- |
