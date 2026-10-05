@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Himanshp1234/leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshp1234/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Himanshp1234/leetcode/tree/master/0036-valid-sudoku) |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
+| [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Himanshp1234/leetcode/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Himanshp1234/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Himanshp1234/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
