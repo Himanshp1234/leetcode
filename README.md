@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Himanshp1234/leetcode/tree/master/0036-valid-sudoku) |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Himanshp1234/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Himanshp1234/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Himanshp1234/leetcode/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/Himanshp1234/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Himanshp1234/leetcode/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Himanshp1234/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
