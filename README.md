@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Himanshp1234/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshp1234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Himanshp1234/leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshp1234/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Himanshp1234/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Himanshp1234/leetcode/tree/master/0097-interleaving-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
