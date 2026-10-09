@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Himanshp1234/leetcode/tree/master/0118-pascals-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Himanshp1234/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Himanshp1234/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Himanshp1234/leetcode/tree/master/0115-distinct-subsequences) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Himanshp1234/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0741-cherry-pickup](https://github.com/Himanshp1234/leetcode/tree/master/0741-cherry-pickup) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himanshp1234/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
