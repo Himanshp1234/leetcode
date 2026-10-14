@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Himanshp1234/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Himanshp1234/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshp1234/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshp1234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Himanshp1234/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Himanshp1234/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Himanshp1234/leetcode/tree/master/0091-decode-ways) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Himanshp1234/leetcode/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Himanshp1234/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
