@@ -1,10 +1,10 @@
 class Solution {
     public boolean canReach(int[] arr, int start) {
-        boolean[] visited = new boolean[arr.length];
-        return solve(arr, start, visited);
+        boolean[] visit = new boolean[arr.length];
+        return solve(arr, start, visit);
     }
 
-    public boolean solve(int[] arr, int i, boolean[] visited) {
+    public boolean solve(int[] arr, int i, boolean[] visit) {
 
         
         if (i < 0 || i >= arr.length) {
@@ -12,7 +12,7 @@ class Solution {
         }
 
     
-        if (visited[i]) {
+        if (visit[i]) {
             return false;
         }
 
@@ -21,10 +21,10 @@ class Solution {
             return true;
         }
 
-        visited[i] = true;
+        visit[i] = true;
 
         
-        return solve(arr, i - arr[i], visited)
-            || solve(arr, i + arr[i], visited);
+        return solve(arr, i - arr[i], visit)
+            || solve(arr, i + arr[i], visit);
     }
 }
