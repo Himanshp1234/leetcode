@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/Himanshp1234/leetcode/tree/master/0741-cherry-pickup) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Himanshp1234/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Himanshp1234/leetcode/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Himanshp1234/leetcode/tree/master/0980-unique-paths-iii) |
 ## Trie
 |  |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Himanshp1234/leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
