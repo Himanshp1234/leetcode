@@ -2,21 +2,26 @@ import java.util.*;
 
 class Solution {
     static final int MOD = 1_000_000_007;
-    long[][] dp;
+    long[][] comb;
 
     public int numOfWays(int[] nums) {
         int n = nums.length;
 
-        dp = new long[n + 1][n + 1];
+        
+        comb = new long[n + 1][n + 1];
 
-        for (long[] row : dp) {
-            Arrays.fill(row, -1);
+        for (int i = 0; i <= n; i++) {
+            comb[i][0] = comb[i][i] = 1;
+
+            for (int j = 1; j < i; j++) {
+                comb[i][j] =
+                    (comb[i - 1][j - 1] + comb[i - 1][j]) % MOD;
+            }
         }
 
         List<Integer> arr = new ArrayList<>();
-
-        for (int num : nums) {
-            arr.add(num);
+        for (int x : nums) {
+            arr.add(x);
         }
 
         return (int) ((solve(arr) - 1 + MOD) % MOD);
@@ -45,24 +50,9 @@ class Solution {
         long leftWays = solve(left);
         long rightWays = solve(right);
 
-        long combinations = nCr(n - 1, left.size());
+        long interleavings = comb[n - 1][left.size()];
 
-        return (((combinations * leftWays) % MOD)
+        return (((interleavings * leftWays) % MOD)
                 * rightWays) % MOD;
-    }
-
-    private long nCr(int n, int r) {
-        if (r == 0 || r == n) {
-            return 1;
-        }
-
-        if (dp[n][r] != -1) {
-            return dp[n][r];
-        }
-
-        dp[n][r] = (nCr(n - 1, r - 1)
-                  + nCr(n - 1, r)) % MOD;
-
-        return dp[n][r];
     }
 }
