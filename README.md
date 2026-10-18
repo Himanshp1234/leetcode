@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Himanshp1234/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Himanshp1234/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1306-jump-game-iii](https://github.com/Himanshp1234/leetcode/tree/master/1306-jump-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himanshp1234/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshp1234/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Himanshp1234/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himanshp1234/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Himanshp1234/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
@@ -235,18 +238,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Himanshp1234/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -311,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Himanshp1234/leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -319,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
