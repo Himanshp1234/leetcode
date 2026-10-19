@@ -1,13 +1,19 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        Arrays.sort(nums);
+        int smaller = 0;
+        int count = 0;
 
-        List<Integer> ans = new ArrayList<>();
-
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[i] == target) {
-                ans.add(i);
+        for(int num : nums) {
+            if(num < target ) {
+                smaller++;
+            } else if(num == target) {
+                count++;
             }
+        }
+        List<Integer> ans  = new ArrayList<>();
+
+        for(int i = 0; i < count; i++) {
+            ans.add(smaller + i);
         }
         return ans;
             }
