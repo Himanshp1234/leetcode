@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Himanshp1234/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Himanshp1234/leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Himanshp1234/leetcode/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Himanshp1234/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
