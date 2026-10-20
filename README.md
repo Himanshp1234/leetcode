@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Himanshp1234/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/2544-alternating-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Himanshp1234/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
+| [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Himanshp1234/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshp1234/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Queue
 |  |
 | ------- |
