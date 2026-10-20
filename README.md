@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Himanshp1234/leetcode/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/Himanshp1234/leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Himanshp1234/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Himanshp1234/leetcode/tree/master/0980-unique-paths-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Himanshp1234/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Himanshp1234/leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Himanshp1234/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Longest Increasing Subsequence
 |  |
