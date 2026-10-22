@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
