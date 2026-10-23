@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Himanshp1234/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0980-unique-paths-iii](https://github.com/Himanshp1234/leetcode/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
