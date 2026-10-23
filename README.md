@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Himanshp1234/leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Himanshp1234/leetcode/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Himanshp1234/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Himanshp1234/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Himanshp1234/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Himanshp1234/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshp1234/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Himanshp1234/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Himanshp1234/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Himanshp1234/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0980-unique-paths-iii](https://github.com/Himanshp1234/leetcode/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshp1234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Himanshp1234/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Himanshp1234/leetcode/tree/master/0704-binary-search) |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Himanshp1234/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Himanshp1234/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshp1234/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
