@@ -27,7 +27,7 @@ class Solution {
             return false;
         }
 
-        // Water or already visited
+        
         if (grid[r][c] == 1) {
             return true;
         }
