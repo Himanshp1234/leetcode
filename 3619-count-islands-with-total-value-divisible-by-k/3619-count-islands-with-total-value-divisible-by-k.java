@@ -1,13 +1,17 @@
 class Solution {
+    int m, n;
+
     public int countIslands(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
+        m = grid.length;
+        n = grid[0].length;
+
         int count = 0;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
+
                 if (grid[i][j] > 0) {
-                    long sum = collect(grid, i, j, m, n);
+                    long sum = dfs(grid, i, j);
 
                     if (sum % k == 0) {
                         count++;
@@ -19,22 +23,22 @@ class Solution {
         return count;
     }
 
-    private long collect(int[][] grid, int i, int j,
-                         int m, int n) {
-        if (i < 0 || i >= m || j < 0 || j >= n
-                || grid[i][j] == 0) {
+    private long dfs(int[][] grid, int i, int j) {
+        if (i < 0 || i >= m ||
+            j < 0 || j >= n ||
+            grid[i][j] == 0) {
             return 0;
         }
 
-        int value = grid[i][j];
-        grid[i][j] = 0; 
+        long sum = grid[i][j];
 
-        long sum = value;
+        
+        grid[i][j] = 0;
 
-        sum += collect(grid, i + 1, j, m, n);
-        sum += collect(grid, i - 1, j, m, n);
-        sum += collect(grid, i, j + 1, m, n);
-        sum += collect(grid, i, j - 1, m, n);
+        sum += dfs(grid, i + 1, j);
+        sum += dfs(grid, i - 1, j);
+        sum += dfs(grid, i, j + 1);
+        sum += dfs(grid, i, j - 1);
 
         return sum;
     }
