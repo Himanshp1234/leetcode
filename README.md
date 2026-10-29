@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Himanshp1234/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Himanshp1234/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Himanshp1234/leetcode/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Himanshp1234/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Himanshp1234/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Himanshp1234/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/Himanshp1234/leetcode/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Himanshp1234/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -224,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Himanshp1234/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Himanshp1234/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -289,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Himanshp1234/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -368,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Himanshp1234/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Himanshp1234/leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
