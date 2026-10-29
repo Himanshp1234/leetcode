@@ -14,6 +14,8 @@
  * }
  */
 
+import java.util.*;
+
 class Solution {
 
     public boolean isSymmetric(TreeNode root) {
@@ -22,26 +24,39 @@ class Solution {
             return true;
         }
 
-        return isMirror(root.left, root.right);
-    }
+        Stack<TreeNode> stack = new Stack<>();
 
-    private boolean isMirror(TreeNode left, TreeNode right) {
+        stack.push(root.left);
+        stack.push(root.right);
 
-        if (left == null && right == null) {
-            return true;
+        while (!stack.isEmpty()) {
+
+            TreeNode right = stack.pop();
+            TreeNode left = stack.pop();
+
+            
+            if (left == null && right == null) {
+                continue;
+            }
+
+            
+            if (left == null || right == null) {
+                return false;
+            }
+
+            
+            if (left.val != right.val) {
+                return false;
+            }
+
+            
+            stack.push(left.left);
+            stack.push(right.right);
+
+            stack.push(left.right);
+            stack.push(right.left);
         }
 
-        
-        if (left == null || right == null) {
-            return false;
-        }
-
-        
-        if (left.val != right.val) {
-            return false;
-        }
-
-        return isMirror(left.left, right.right)
-            && isMirror(left.right, right.left);
+        return true;
     }
 }
