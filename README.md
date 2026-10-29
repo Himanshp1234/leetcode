@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Himanshp1234/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Himanshp1234/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Himanshp1234/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Himanshp1234/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Himanshp1234/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Himanshp1234/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshp1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Himanshp1234/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Himanshp1234/leetcode/tree/master/0101-symmetric-tree) |
 | [1254-number-of-closed-islands](https://github.com/Himanshp1234/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Himanshp1234/leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Himanshp1234/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Himanshp1234/leetcode/tree/master/0101-symmetric-tree) |
 | [1254-number-of-closed-islands](https://github.com/Himanshp1234/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Himanshp1234/leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
