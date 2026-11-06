@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Himanshp1234/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Himanshp1234/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Himanshp1234/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Himanshp1234/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Himanshp1234/leetcode/tree/master/0089-gray-code) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshp1234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Himanshp1234/leetcode/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/Himanshp1234/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Himanshp1234/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Himanshp1234/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Himanshp1234/leetcode/tree/master/0097-interleaving-string) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Himanshp1234/leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Himanshp1234/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Interactive
 |  |
