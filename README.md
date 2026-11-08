@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Himanshp1234/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/Himanshp1234/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Himanshp1234/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Himanshp1234/leetcode/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshp1234/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Himanshp1234/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/Himanshp1234/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Himanshp1234/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Himanshp1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Himanshp1234/leetcode/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Himanshp1234/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Himanshp1234/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Himanshp1234/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Himanshp1234/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Himanshp1234/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Himanshp1234/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshp1234/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Himanshp1234/leetcode/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Himanshp1234/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Manacher
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Himanshp1234/leetcode/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Himanshp1234/leetcode/tree/master/0455-assign-cookies) |
 ## Graph Theory
 |  |
 | ------- |
