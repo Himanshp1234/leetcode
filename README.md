@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Himanshp1234/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Himanshp1234/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Himanshp1234/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Two Pointers
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Himanshp1234/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Himanshp1234/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Himanshp1234/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Himanshp1234/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
