@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Himanshp1234/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Himanshp1234/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Himanshp1234/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Himanshp1234/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Himanshp1234/leetcode/tree/master/2409-count-days-spent-together) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Himanshp1234/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshp1234/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
