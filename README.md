@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Himanshp1234/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Himanshp1234/leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshp1234/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Himanshp1234/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2409-count-days-spent-together](https://github.com/Himanshp1234/leetcode/tree/master/2409-count-days-spent-together) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Himanshp1234/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Himanshp1234/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Himanshp1234/leetcode/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Himanshp1234/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Himanshp1234/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1991-find-the-middle-index-in-array](https://github.com/Himanshp1234/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -535,4 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Himanshp1234/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
