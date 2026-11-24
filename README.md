@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/Himanshp1234/leetcode/tree/master/3099-harshad-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshp1234/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Himanshp1234/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Himanshp1234/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Himanshp1234/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Himanshp1234/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Himanshp1234/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshp1234/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Himanshp1234/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Queue
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Himanshp1234/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Himanshp1234/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshp1234/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Himanshp1234/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Himanshp1234/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
