@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Himanshp1234/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Himanshp1234/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/Himanshp1234/leetcode/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/Himanshp1234/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Himanshp1234/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshp1234/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Himanshp1234/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Himanshp1234/leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Himanshp1234/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Himanshp1234/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/Himanshp1234/leetcode/tree/master/3360-stone-removal-game) |
 ## Interactive
 |  |
 | ------- |
